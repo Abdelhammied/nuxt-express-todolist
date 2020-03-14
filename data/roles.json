@@ -1,0 +1,8 @@
+{
+  "required": "This field is required.",
+  "email": "This field is not a valid email address.",
+  "confirmed": "This field doesn't match it's confirmed.",
+  "minLength1": "This field must be more than 1 characters.",
+  "minLength2": "This field must be more than 2 characters.",
+  "minLength6": "This field must be more than 6 characters."
+}
